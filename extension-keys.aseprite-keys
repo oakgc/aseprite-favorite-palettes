@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="1-favorite-palettes" shortcut="Ctrl+Shift+1" />
+        <key command="2-favorite-palettes" shortcut="Ctrl+Shift+2" />
+        <key command="3-favorite-palettes" shortcut="Ctrl+Shift+3" />
+        <key command="4-favorite-palettes" shortcut="Ctrl+Shift+4" />
+        <key command="5-favorite-palettes" shortcut="Ctrl+Shift+5" />
+        <key command="show-favorite-palettes" shortcut="Ctrl+Shift+F" />
+    </commands>
+</keyboard>

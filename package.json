@@ -1,0 +1,27 @@
+{
+    "name": "favorite-palettes",
+    "displayName": "Favorite Palettes",
+    "description": "Saved your Favorites Palettes and use this in an easy way!",
+    "version": "1.0",
+    "author": {
+        "name": "OakGC - Gabriel Carvalho",
+        "email": "oakgco@gmail.com"
+    },
+    "contributors": [ ],
+    "publisher": "oak-gco",
+    "license": "MIT",
+    "categories": [ "Scripts" ,"Keys" ],
+    "contributes": {
+        "scripts": [
+            { 
+                "path": "./favorite-palette.lua" 
+            }
+        ],
+        "keys":[
+            {
+                "id":"favorite-palettes",
+                "path": "./extension-keys.aseprite-keys"
+            }
+        ]
+    }
+}
